@@ -28,6 +28,8 @@ que para cada resolução de exercício você crie uma nova pasta no repositóri
 Enjoy!
 
 ## 1 - O que é NodeJS?
+This question has been answer in folder Exercise 1
+
 ## 2 - Como NodeJS funciona?
 ## 3 - Onde NodeJS pode ser utilizado?
 ## 4 - O que é Event Loop no NodeJS e como ele funciona?
