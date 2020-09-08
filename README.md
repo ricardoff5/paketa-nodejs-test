@@ -31,9 +31,17 @@ Enjoy!
 This question has been answer in folder Exercise 1
 
 ## 2 - Como NodeJS funciona?
+This question has been answer in folder Exercise 2
+
 ## 3 - Onde NodeJS pode ser utilizado?
+This question has been answer in folder Exercise 3
+
 ## 4 - O que é Event Loop no NodeJS e como ele funciona?
+This question has been answer in folder Exercise 4
+
 ## 5 - O que é Callback Hell?
+This question has been answer in folder Exercise 5
+
 ## 6 - O time de engenharia da Paketá criou uma biblioteca chamada Geolocation que retorna a Geolocalização do usuário em tempo de execução.
 
 Ela retorna uma promise e um objeto com as seguintes propriedades:
