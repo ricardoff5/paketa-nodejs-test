@@ -1,11 +1,11 @@
 {
   "name": "paketa-nodejs-test",
-  "version": "1.3.0",
-  "description": "",
+  "version": "1.4.0",
+  "description": "This repository has been requested by Paketá Credito, it must store answers form Paketá's Technical Test. The answer for each question might be in a single folder and has a proper realease.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Ricardo Ferreira",
   "license": "ISC"
 }
